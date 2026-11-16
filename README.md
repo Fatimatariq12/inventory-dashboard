@@ -39,13 +39,13 @@ cd inventory-dashboard
 ```
 
 3. Create a Virtual Environment
-```bash
-python3 -m venv .venv
+```powershell
+python -m venv .venv
 ```
 
 4. Activate the Virtual Environment
-```bash
-source .venv/bin/activate
+```powershell
+.venv\Scripts\Activate.ps1
 ```
 
 5. Install Dependencies
