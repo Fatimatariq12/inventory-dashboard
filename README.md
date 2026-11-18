@@ -1,4 +1,4 @@
-# Inventory Dashboard
+Inventory Dashboard
 
 Project Overview
 The Inventory Dashboard is a simple inventory management application developed using Python, Streamlit, and Pandas. It displays inventory records in an interactive table, making it easier to view and manage basic inventory information.
@@ -66,3 +66,24 @@ The application reads inventory information from `inventory.csv`, which contains
 Project Status
 Task 1: Project Setup and Initial Inventory Display – Completed
 
+Task 2: Category Filter and Search Functionality
+
+Features Added
+- Added a category dropdown to filter inventory items.
+- Added a search input to find items by name.
+- Implemented case-insensitive searching.
+- Combined category filtering and search functionality.
+- Updated the inventory table dynamically based on user input.
+- Added a message when no matching items are found.
+
+Technologies Used
+- Python
+- Streamlit
+- Pandas
+
+How to Run
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Run the application:
+   streamlit run app.py
