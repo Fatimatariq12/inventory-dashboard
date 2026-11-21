@@ -1,11 +1,13 @@
 Item ID,Name,Category,Quantity,Price
-101,Laptop,Electronics,10,150000
-102,Mouse,Accessories,25,1500
-103,Keyboard,Accessories,15,3000
-104,Monitor,Electronics,8,35000
-105,Printer,Electronics,5,45000
-106,USB Cable,Accessories,30,500
-107,Desk Chair,Furniture,12,12000
-108,Office Desk,Furniture,7,25000
-109,Headphones,Accessories,20,4500
-110,Webcam,Electronics,9,6500
+101,Laptop,Electronics,10,150000.0
+102,Mouse,Accessories,25,1500.0
+103,Keyboard,Accessories,15,3000.0
+104,Monitor,Electronics,8,35000.0
+105,Printer,Electronics,5,45000.0
+106,USB Cable,Accessories,30,500.0
+107,Desk Chair,Furniture,12,12000.0
+108,Office Desk,Furniture,7,25000.0
+109,Headphones,Accessories,20,4500.0
+110,Webcam,Electronics,9,6500.0
+111,TV,Electronics,12,70000.0
+112,IPhone 13,Electronics,10,130000.0
